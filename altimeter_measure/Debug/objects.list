@@ -1,0 +1,7 @@
+"./Src/MPL3115A2_handler.o"
+"./Src/i2c_handler.o"
+"./Src/main.o"
+"./Src/syscalls.o"
+"./Src/sysmem.o"
+"./Src/uart_driver.o"
+"./Startup/startup_stm32f411ceux.o"

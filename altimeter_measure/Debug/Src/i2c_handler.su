@@ -1,0 +1,5 @@
+../Src/i2c_handler.c:31:6:i2c1_init	4	static
+../Src/i2c_handler.c:57:6:I2C1_generate_start	4	static
+../Src/i2c_handler.c:69:6:I2C1_write	16	static
+../Src/i2c_handler.c:80:6:I2C1_send_adr	16	static
+../Src/i2c_handler.c:97:6:I2C1_write_reg	16	static
